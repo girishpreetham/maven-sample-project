@@ -1,1 +1,2 @@
-# maven-sample-project
+# maven-webapp
+Maven Webapp 2
